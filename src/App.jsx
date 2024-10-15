@@ -15,7 +15,7 @@ const App = () => {
   return (
       <div className="App">
           <DoubleArray numbers = {numbers} />
-          <ProductList list={products} />
+          <ProductList list = {products} />
       </div>
   );
 };
